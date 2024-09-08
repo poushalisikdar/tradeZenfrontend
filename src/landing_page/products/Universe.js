@@ -37,4 +37,4 @@ import React from 'react'
      );
  }
  
- export default Universe;
+ export default Universe

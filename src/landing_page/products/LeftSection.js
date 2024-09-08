@@ -41,4 +41,4 @@ function LeftSection({
   );
 }
 
-export default LeftSection;
+export default LeftSection

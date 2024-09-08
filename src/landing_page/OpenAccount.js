@@ -15,4 +15,4 @@ function OpenAccount() {
      );
 }
 
-export default OpenAccount;
+export default OpenAccount

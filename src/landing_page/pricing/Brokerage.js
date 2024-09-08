@@ -24,4 +24,4 @@ import React from 'react'
      );
  }
  
- export default Brokerage;
+ export default Brokerage

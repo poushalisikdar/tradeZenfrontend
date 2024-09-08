@@ -12,4 +12,4 @@ function PagenotFound() {
   );
 }
 
-export default PagenotFound;
+export default PagenotFound

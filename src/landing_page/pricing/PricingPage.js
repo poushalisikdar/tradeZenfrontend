@@ -13,4 +13,4 @@ function PricingPage() {
   );
 }
 
-export default PricingPage;
+export default PricingPage

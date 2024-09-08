@@ -19,4 +19,4 @@ function RightSection({productName,productDescription, imageURL}) {
   );
 }
 
-export default RightSection;
+export default RightSection

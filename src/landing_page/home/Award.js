@@ -49,4 +49,4 @@ function Award() {
     );
 }
 
-export default Award;
+export default Award

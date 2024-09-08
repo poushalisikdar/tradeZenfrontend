@@ -13,4 +13,4 @@ import React from 'react'
      );
  }
  
- export default Hero;
+ export default Hero
