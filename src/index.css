@@ -11,3 +11,78 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link{
+  margin-left: 35px;
+}
+.footercon{
+  margin-left: 8rem;
+  
+}
+.navbar{
+  top: 0;
+  width: 100%;
+  z-index: 10 !important;
+  position: fixed;
+  background-color: #fff !important;
+  box-shadow: 2px 1px 2px #eee !important;
+  box-sizing: border-box !important;
+}
+.footerlast{
+  text-align: center;
+  margin-bottom: 1rem;
+ 
+}
+.footerlast span{
+margin-right: 1rem;
+font-size: 13px;
+}
+.pricing p a{
+  text-decoration: none;
+}
+.pricinghero{
+  font-size: 17px;
+  padding: 20px;
+}
+.team{
+  line-height: 32px;
+}
+.leftsection {
+text-decoration: none;
+}
+.pricinghero{
+  display: flex;
+  justify-content: space-between;
+}
+.brokerage ul li{
+  font-size: 13px;
+  line-height: 23px;
+}
+.createticket a {
+text-decoration: none;
+line-height: 30px;
+}
+#supportwrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 250px 150px;
+}
+#supportHero{
+background-color: rgb(56,126,209);
+color:white;
+
+}
+#supportHero a {
+  color: white;
+  margin-top: 2rem;
+  line-height: 3rem;
+  margin-right: 2rem;
+}
+#supportHero input{
+  padding: 18px 50px;
+  width: 75%;
+  border: none;
+  border-radius: 3px;
+}
+.supp{
+  margin-left: 11rem;
+}
